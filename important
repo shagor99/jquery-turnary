@@ -1,0 +1,1 @@
+ $(".fm").prop("readonly", !$(".fm").prop("readonly"));
